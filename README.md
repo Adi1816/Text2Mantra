@@ -4,6 +4,6 @@ Engineered a Text2Matra converter with Prof. Niraj Kumar Singh for poetic struct
 Worked on Hanuman Chalisa to produce Grouped Scansion of 1s and 2s.
 Below is the image of the output being generated considering tons of edge cases.
 
-![alt text](https://github.com/[Adi1816]/[Text2Mantra]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Adi1816/Text2Mantra/blob/master/image.jpg?raw=true)
 
 
